@@ -1,0 +1,48 @@
+{
+  "version": "7",
+  "dialect": "sqlite",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "6",
+      "when": 1795072694815,
+      "tag": "0001_initial",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1795072694815,
+      "tag": "0002_fatafat_full_app_tables",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "6",
+      "when": 1795081509636,
+      "tag": "0003_loyalty_subscriptions_coins",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "6",
+      "when": 1795094953792,
+      "tag": "0004_reviews_notify_vendors_slots_gifts",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "6",
+      "when": 1795152010953,
+      "tag": "0005_admin_security_panel",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "6",
+      "when": 1795152282530,
+      "tag": "0006_customer_accounts_and_support_tickets",
+      "breakpoints": true
+    }
+  ]
+}

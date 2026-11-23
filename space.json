@@ -1,0 +1,8 @@
+{
+  "runtime": "typescript",
+  "platformVersion": 29,
+  "entry": "client/dist/index.html",
+  "name": "Fatafat Full App",
+  "slug": "fatafat-full-app",
+  "managedCronJobs": []
+}
